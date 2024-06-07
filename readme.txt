@@ -1,1 +1,1 @@
-Script que usa Long Short Time Memory Neural Network para prever o preço de ações da BOVESPA. Além disto, utiliza o modelo ARIMA e várias técnicas de análise de séries temporais para melhor analisar os preços do ativo.
+Script que usa Long Short Time Memory Neural Network para prever o preço de ações da BOVESPA. Além disto, utiliza o modelo ARIMA, algoritmo genético e várias técnicas de análise de séries temporais para melhor analisar os preços do ativo.
